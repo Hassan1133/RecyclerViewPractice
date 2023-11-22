@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/new_group"
+        android:title="New Group"
+        />
+    <item
+        android:id="@+id/broadcast"
+        android:title="New Broadcast"
+        />
+    <item
+        android:id="@+id/linked_devices"
+        android:title="Linked Devices"
+        />
+
+    <item
+        android:id="@+id/search"
+        android:title="Search"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:showAsAction="always"
+        />
+
+</menu>
